@@ -195,8 +195,9 @@ const First = () => {
                     Winners{' '}
                   </button>
                 </div>
-              </div>
+              </div> 
               <div className="py-2">
+              cdxvfd
                 <div
                   className="inline-block p-[2px] rounded-full"
                   style={{
